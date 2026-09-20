@@ -134,6 +134,11 @@ p{ margin: 0 0 1em; max-width: 62ch; }
   border-color: var(--green-deep);
   color: var(--green-deep);
 }
+.btn-outline2{
+  border-color: var(--gold-soft);
+  color: var(--ivory);
+}
+
 .btn-outline:hover{ background: var(--green-deep); color: var(--ivory); }
 .section-dark .btn-outline{ border-color: var(--gold-soft); color: var(--ivory); }
 .section-dark .btn-outline:hover{ background: var(--gold-soft); color: var(--green-deep-dark); }
@@ -210,6 +215,10 @@ p{ margin: 0 0 1em; max-width: 62ch; }
   .header-cta .btn-outline{ display:none; }
   .hamburger{ display:block; }
   .mobile-panel{ display:block; }
+  .btn-small{display: none;}
+  .mobile-panel a {
+    padding: 6px 16px;
+  }
 }
 
 /* ---------- Hero ---------- */

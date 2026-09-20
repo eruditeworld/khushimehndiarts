@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" width="900" height="1100">
+  <defs>
+    <linearGradient id="g11" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#3B5745"/>
+      <stop offset="100%" stop-color="#B8935A"/>
+    </linearGradient>
+    <pattern id="hatch11" width="26" height="26" patternTransform="rotate(45)" patternUnits="userSpaceOnUse">
+        <line x1="0" y1="0" x2="0" y2="26" stroke="#F3ECDC" stroke-width="1" opacity="0.06"/>
+      </pattern>
+  </defs>
+  <rect width="900" height="1100" fill="url(#g11)"/>
+  <rect width="900" height="1100" fill="url(#hatch11)"/>
+  <g transform="translate(553,738) rotate(238) scale(1.1854904051077997)" opacity="0.22">
+        <path d="M0,0 C 20,-40 60,-40 60,0 C 60,30 40,45 20,40 C 5,36 -10,20 0,0 Z" fill="none" stroke="#F3ECDC" stroke-width="2.2"/>
+        <circle cx="20" cy="5" r="3" fill="#F3ECDC"/>
+      </g><g transform="translate(610,766) rotate(262) scale(0.6519216250458976)" opacity="0.22">
+        <path d="M0,0 C 20,-40 60,-40 60,0 C 60,30 40,45 20,40 C 5,36 -10,20 0,0 Z" fill="none" stroke="#F3ECDC" stroke-width="2.2"/>
+        <circle cx="20" cy="5" r="3" fill="#F3ECDC"/>
+      </g><g transform="translate(734,793) rotate(48) scale(1.134381498015962)" opacity="0.22">
+        <path d="M0,0 C 20,-40 60,-40 60,0 C 60,30 40,45 20,40 C 5,36 -10,20 0,0 Z" fill="none" stroke="#F3ECDC" stroke-width="2.2"/>
+        <circle cx="20" cy="5" r="3" fill="#F3ECDC"/>
+      </g><g transform="translate(400,310) rotate(324) scale(0.5725364299934715)" opacity="0.22">
+        <path d="M0,0 C 20,-40 60,-40 60,0 C 60,30 40,45 20,40 C 5,36 -10,20 0,0 Z" fill="none" stroke="#B8935A" stroke-width="2.2"/>
+        <circle cx="20" cy="5" r="3" fill="#B8935A"/>
+      </g>
+  <rect x="18" y="18" width="864" height="1064" fill="none" stroke="#F3ECDC" stroke-width="1.2" opacity="0.55"/>
+  <g font-family="'DM Sans', sans-serif" text-anchor="middle">
+        <text x="450.0" y="544.0" font-size="20" fill="#F3ECDC" letter-spacing="0.5">Demo Placeholder</text>
+        <text x="450.0" y="570.0" font-size="12" fill="#F3ECDC" opacity="0.75">Bridal mehndi photo — replace</text>
+      </g>
+</svg>
